@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T08:48:49.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qgyhj7aUxAj38hTukjDF" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T08:49:39.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="hRjSlduiLVapDHcRCFLA" version="17.4.5" type="github">
   <diagram id="rR8CcJQi8yALQyCtRHCH" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="WSKHrjnX9OZWL_ApC0PT-4" value="分类模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSKHrjnX9OZWL_ApC0PT-18" value="坐标、类别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WSKHrjnX9OZWL_ApC0PT-18" value="瑕疵的类别、坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSKHrjnX9OZWL_ApC0PT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;fillColor=none;" parent="1" vertex="1">
