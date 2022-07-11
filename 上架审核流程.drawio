@@ -1,13 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T03:22:36.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="epu_tU4npel5sPTnhC-Y" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T03:29:36.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dciUQfou4sTYVnm2heDM" version="20.0.3" type="github">
   <diagram id="Kyk2tOogElKhquHt7T_I" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7k4_9i-EoUSGYV1Xi4J-1" target="Q7k4_9i-EoUSGYV1Xi4J-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF3333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="210" width="580" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-14" value="&lt;font style=&quot;font-size: 26px&quot;&gt;上架审核流程（算法测）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-14" value="&lt;font style=&quot;font-size: 26px&quot;&gt;上架审核流程（算法侧）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-40" y="110" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;待处理数据 （首图+模板）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,6 +36,9 @@
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-21" value="&lt;span style=&quot;font-size: 16px&quot;&gt;算法处理&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7k4_9i-EoUSGYV1Xi4J-22" target="Q7k4_9i-EoUSGYV1Xi4J-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF3333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="210" width="140" height="210" as="geometry" />
         </mxCell>
@@ -39,6 +47,9 @@
         </mxCell>
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-24" value="&lt;span style=&quot;font-size: 16px&quot;&gt;后端处理&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-20" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7k4_9i-EoUSGYV1Xi4J-25" target="Q7k4_9i-EoUSGYV1Xi4J-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7k4_9i-EoUSGYV1Xi4J-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FF3333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="210" width="140" height="210" as="geometry" />
