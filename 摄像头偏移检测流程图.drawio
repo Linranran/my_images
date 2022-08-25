@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:45:56.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.2.3" etag="u6GmXFhk0fpNpkfROB_9" type="github"><diagram id="LQCwRZKgoIBiFygb9zde">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:52:49.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9E9809P3zOBSQ4BHEaV6" version="20.2.3" type="github">
+  <diagram id="LQCwRZKgoIBiFygb9zde" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h5VG_YQ8Y018yJzzJiq5-1" target="h5VG_YQ8Y018yJzzJiq5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-1" value="拍照设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h5VG_YQ8Y018yJzzJiq5-3" target="h5VG_YQ8Y018yJzzJiq5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-3" value="拍摄手机的摄像头部分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h5VG_YQ8Y018yJzzJiq5-4" target="h5VG_YQ8Y018yJzzJiq5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-4" value="使用摄像头检测模型检测摄像头位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-5" value="输出摄像头偏移量（毫米）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-9" value="使用拍照设备采集手机摄像头图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-10" value="摄像头偏移检测流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;摄像头检测模型的生成&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h5VG_YQ8Y018yJzzJiq5-4" target="h5VG_YQ8Y018yJzzJiq5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="370" />
+              <mxPoint x="500" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-13" value="使用拍照设备采集手机摄像头图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-14" value="使用三点标注方式，框出手机的摄像头以及视窗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5VG_YQ8Y018yJzzJiq5-15" value="训练手机摄像头检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
